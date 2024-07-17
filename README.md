@@ -1,2 +1,2 @@
-# Kanaka_web
-This is for 958331 only jubjub
+# hcg-chaper-1
+This is repository of 560651023-HCG-chapter1
